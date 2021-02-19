@@ -29,7 +29,7 @@ MANIFEST
 *.ds_store
 .DS_store
 *password file ignore
-config.py
+!config.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
