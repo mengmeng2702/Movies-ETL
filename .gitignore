@@ -1,3 +1,6 @@
+# adding config.py file
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -28,8 +31,6 @@ share/python-wheels/
 MANIFEST
 *.ds_store
 .DS_store
-*.py
-!config.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
